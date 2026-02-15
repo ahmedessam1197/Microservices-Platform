@@ -441,7 +441,7 @@ This project demonstrates a complete migration from Docker Compose to a Kubernet
 
 ## 👤 Author
 
-**Abdelrahman Ahmed**  
+**Ahmed Essam**  
 _2025 — Microservices Migration Project_
 
 For questions or contributions, please open an issue or submit a pull request.
